@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://btaa-ohs.github.io/blog/'
 languageCode = 'en-us'
 title = 'BTAA Open Homework Systems Blog'
 theme = 'lightbi-hugo'
