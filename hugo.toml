@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'BTAA Open Homework Systems Blog'
+theme = 'lightbi-hugo'
+paginate = 10
+paginatePath = '.'
+
+[params]
+    description = "The BTAA Open Homework Systems Blog"
+    author = "BTAA Open Homework Systems"
+
+
+[Author]
+    name = "BTAA Open Homework Systems"
+    bio = "The BTAA Open Homework Systems Blog"
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
