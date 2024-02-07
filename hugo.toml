@@ -13,6 +13,7 @@ paginatePath = '.'
 [Author]
     name = "BTAA Open Homework Systems"
     bio = "The BTAA Open Homework Systems Blog"
+
 [[menu.main]]
     name = "Home"
     url = "/"
