@@ -5,7 +5,7 @@ tags: ["announcement", "blog", "news", "Open Homework"]
 image : "/img/posts/1.jpg"
 Description: "Day 1 of the Open Homework Systems blog."
 author: "Aerith Netzer"
-avatar: "aerith.jpg"
+avatar: "/blog/images/aerith.png"
 layout: "/layouts/_default/post.html"
 ---
 
