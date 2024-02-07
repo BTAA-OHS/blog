@@ -1,8 +1,8 @@
 ---
 type : "tags"
 title: "About Us"
----
 
+---
 The Open Homework Systems project is a collaboration with several Big Ten Academic Alliance Schools to investigate open-source homework systems. The project is generously funded by the Institute of Museum and Library Services (IMLS).
 
 ## Our Team
