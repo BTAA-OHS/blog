@@ -25,8 +25,6 @@ Micah Gjeltema, Open Education and Affordable Content Librarian
 
 Lauren McKeen McDonald, Open Education Librarian
 
-Aerith Netzer, Digital Publishing and Repository Librarian
-
 ## Advisory Board
 
 David Ernst‚ Director of the Center for Open Education at the University of Minnesota and Executive Director of the Open Education Network
